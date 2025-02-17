@@ -6,7 +6,9 @@
 Aqui você encontrará dois sistemas que desenvolvi nos primeiros seis meses de estudo:
 
 📞 Agenda Telefônica – Desenvolvida em Portugol, essa aplicação foi um dos meus primeiros contatos com lógica de programação e estruturação de dados.
+
 🎮 404 Games – Sistema de controle para uma loja de jogos eletrônicos, criado com VBA e Microsoft Access, onde comecei a explorar conceitos de Banco de Dados e CRUD.
+
 📝 Código Mantido Intacto
 Esses projetos foram desenvolvidos nas respectivas datas e não sofreram alterações desde então. Eles refletem o nível de conhecimento que eu possuía na época, incluindo eventuais problemas de lógica, repetição de código e oportunidades de melhoria. No entanto, fazem parte da minha trajetória e mostram o quanto me dediquei e evoluí desde então.
 
