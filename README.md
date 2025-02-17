@@ -2,6 +2,17 @@
 
 🚀 Importante: Este repositório contém projetos antigos, desenvolvidos nos primeiros meses da minha jornada como programador. Estou compartilhando esses trabalhos para evidenciar minha evolução desde agosto de 2023 até o presente, mostrando como meus conhecimentos e habilidades cresceram ao longo do tempo.
 
+🕰️ Sobre os Projetos
+Aqui você encontrará dois sistemas que desenvolvi nos primeiros seis meses de estudo:
+
+📞 Agenda Telefônica – Desenvolvida em Portugol, essa aplicação foi um dos meus primeiros contatos com lógica de programação e estruturação de dados.
+🎮 404 Games – Sistema de controle para uma loja de jogos eletrônicos, criado com VBA e Microsoft Access, onde comecei a explorar conceitos de Banco de Dados e CRUD.
+📝 Código Mantido Intacto
+Esses projetos foram desenvolvidos nas respectivas datas e não sofreram alterações desde então. Eles refletem o nível de conhecimento que eu possuía na época, incluindo eventuais problemas de lógica, repetição de código e oportunidades de melhoria. No entanto, fazem parte da minha trajetória e mostram o quanto me dediquei e evoluí desde então.
+
+👀 Por que compartilhar?
+Publicá-los aqui é uma forma de documentar minha jornada e demonstrar minha evolução como desenvolvedor. Se comparados aos meus projetos mais recentes, fica evidente como o estudo contínuo e a prática me ajudaram a amadurecer minha lógica e minhas habilidades técnicas.
+
 ## #️⃣ Agenda Telefônica com Portugol 📞
 
 
