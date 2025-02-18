@@ -76,6 +76,7 @@ O sistema deveria permitir que o usuário:
 
 ### 🏗️ Desafios e Aprendizados  
 Esse foi o primeiro projeto em que precisei lidar simultaneamente com programação e banco de dados, o que me proporcionou um primeiro contato com conceitos essenciais que estudei mais a fundo posteriormente, como:
+
 📌 Consultas SQL (queries para manipulação e recuperação de dados)
 
 📌 Uso de classes como RecordSet (equivalente ao ResultSet do java.sql)
